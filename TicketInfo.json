@@ -1,13 +1,13 @@
 {
     "results": [{
-        "type" : "Courtside",
+        "type" : "Couide",
         "price" : 27777,
-        "inventory" : 15
+        "inventory" : 10
     }, 
     {
         "type" : "Balcony Level",
         "price" : 1170,
-        "inventory" : 12
+        "inventory" : 1
     },
     {
         "type" : "Lower Level",
