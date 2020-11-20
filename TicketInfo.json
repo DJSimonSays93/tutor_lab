@@ -1,5 +1,5 @@
 {
-    "name": "Simon"
+    "name": "Simon",
     "tickets": [{
         "type" : "Couide",
         "price" : 27777,
