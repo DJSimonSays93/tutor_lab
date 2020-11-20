@@ -1,5 +1,7 @@
 {
     "name": "Simon",
+    "lastName": "Smith",
+    "age": 27
     "tickets": [{
         "type" : "Couide",
         "price" : 27777,
